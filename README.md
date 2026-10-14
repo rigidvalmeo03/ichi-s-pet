@@ -37,16 +37,21 @@ IchiPett uses Godot's "Node2D" and "AnimatedSprite2D" nodes to control the cat's
 The floating hearts are separate scene instances. When the cat is clicked, the game creates three hearts, each of which moves upward and removes itself after a short lifetime. The fish interaction uses a timer to make the fish reappear after it has been given to the cat.
 
 Project Structure
-text
 IchiPett/
-├── project.godot
-├── ichipett.gd
-├── heart.tscn
+├── addons/
+├── cat/
+│   ├── idlecat.png
+│   └── walk.png
+├── hearts/
+├── fish.png
 ├── heart.gd
-├── README.md
-└── other scenes and assets
-
-The structure above is simplified. Keep the actual filenames and folders from your project.
+├── heart.tscn
+├── heart_new.tscn
+├── ichipett.gd
+├── icon.svg
+├── node_2d.tscn
+├── export_presets.cfg
+└── README.md
 
 Credits:
 Created as a personal project while learning Godot 4 and GDScript.
