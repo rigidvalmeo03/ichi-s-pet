@@ -55,6 +55,9 @@ IchiPett/
 ├── export_presets.cfg
 └── README.md
 
+What I Learned:
+Through this project, I learned how to use Godot to create a desktop pet with interactive features. I gained experience with GDScript, node structures, signals, animations, and collision detection. I also learned how to make the cat move around the window, switch between walking and idle animations, and respond to user interactions. Implementing the draggable fish, its respawn behavior, and the floating hearts helped me understand how to manage objects, timers, and interactions in a game. Most importantly, I learned how to troubleshoot errors and improve my project through testing and experimentation.
+
 Credits:
 Created as a personal project while learning Godot 4 and GDScript.
 All artwork, sprites, animations, and game assets were created by me using Ibis Paint X.
