@@ -5,6 +5,8 @@ A tiny pixel-art desktop cat that walks around, takes occasional breaks, plays w
 Try It Out:
 https://rigid-valmeo.itch.io/ichi-pet
 Use this itch.io link.
+https://drive.google.com/drive/folders/1NoEqFkjwDh62bx1itReNcD_lHAuQKG_t?usp=sharing
+Watch this video to see the cat in action.
 Move the cat around, pet(click) it to see hearts float up, and drag the fish towards the cat to be eaten.
 
 QUICK START
